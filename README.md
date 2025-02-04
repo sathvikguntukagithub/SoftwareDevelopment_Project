@@ -2,7 +2,7 @@
 
 # Agriculture-Water-Monitoring-System-
 
-# Water Alert System 
+# Water Alert System - @steven
 - It triggers the sensors embeded in the ground by checking weather forecast and dry day to make it moister by sending an alter to farmer to water the Land. 
 
 
